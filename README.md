@@ -1,6 +1,6 @@
-# 🏢 FONAMIF - Système de Pointage
+# 🏢 PROJECT_System_FF - Système de Pointage
 
-Système de gestion des présences pour le FONAMIF, utilisant Biométrie, QR Code et Code-barres.
+Système de gestion des présences pour le PROJECT_System_FF, utilisant Biométrie, QR Code et Code-barres.
 
 ## 📋 Prérequis
 
@@ -19,8 +19,8 @@ Avant d'installer, assurez-vous d'avoir :
 ### Étape 1 : Cloner le projet
 
 ```bash
-git clone https://github.com/AmdyD-ux/FONAMIF_System.git
-cd FONAMIF_System
+git clone https://github.com/AmdyD-ux/PROJECT_System_FF.git
+cd PROJECT_System_FF
 ```
 
 ### Étape 2 : Lancer le Backend (API)
@@ -63,7 +63,7 @@ Ouvrez votre navigateur sur : **http://localhost:5173**
 ## 🏗️ Architecture
 
 ```
-FONAMIF_System/
+PROJECT_System_FF/
 ├── backend/          # Spring Boot 3 (API REST)
 │   └── src/main/java/com/fonamif/backend/
 └── frontend/         # React + Vite + TailwindCSS
@@ -104,7 +104,7 @@ spring.datasource.password=votre_password
 
 ## 📄 Licence
 
-Projet développé pour le FONAMIF.
+Projet développé pour le PROJECT_System_FF.
 
 ---
 
